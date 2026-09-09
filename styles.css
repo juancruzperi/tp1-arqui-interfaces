@@ -11,6 +11,10 @@ body {
     align-items: center;
     font-family: "Poppins", sans-serif;
     background-color: #fcf5df;
+    background-image: url("img/fondo-pagina.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     padding: 20px;
 }
 
